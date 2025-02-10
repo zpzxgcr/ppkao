@@ -1,0 +1,1 @@
+.bubble-background[data-v-4df4cefe]{background:var(--bubble-color);height:100%;overflow:hidden;position:absolute;top:0;width:100%}.bubble-background .bubble[data-v-4df4cefe]{animation:move-4df4cefe linear infinite;border-radius:50%;filter:blur(60px);position:absolute}@keyframes move-4df4cefe{0%{transform:translateY(0)}50%{transform:translateY(-1000px)}to{transform:translateY(0)}}

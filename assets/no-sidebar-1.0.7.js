@@ -1,0 +1,1 @@
+import{_ as t,c as _,o as a,d as e,bG as c,bH as r,H as s}from"./entry-1.0.7.js";const m={};function u(p,d){const n=c,o=r;return a(),_(s,null,[e(n,{name:"header"}),e(o),e(n,{name:"footer"})],64)}const x=t(m,[["render",u]]);export{x as default};
