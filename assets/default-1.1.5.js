@@ -1,1 +1,0 @@
-import{_ as c,c as s,o,d as t,f as _,B as r,h as m,bG as d,bH as u,H as l}from"./entry-1.1.5.js";const f={},i={class:"layout-container"};function p(a,x){const e=d,n=u;return o(),s(l,null,[t(e,{name:"header"}),_("div",i,[t(n)]),t(e,{name:"footer"}),a.$device.isDesktop?(o(),r(e,{key:0,name:"sidebar"})):m("",!0)],64)}const B=c(f,[["render",p]]);export{B as default};
