@@ -1,2 +1,0 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./Course-1.2.22.js","./entry-1.2.2.js","./entry-1.2.2.css","./el-loading-1.2.2.js","./el-loading-1.2.2.css","./user-1.2.22.js","./Course-1.2.2.css"])))=>i.map(i=>d[i]);
-import{B as t,o as _,C as n,F as r}from"./entry-1.2.2.js";const a=n(()=>r(()=>import("./Course-1.2.22.js"),__vite__mapDeps([0,1,2,3,4,5,6]),import.meta.url).then(e=>e.default||e)),m={__name:"course",setup(e){return(s,c)=>{const o=a;return _(),t(o)}}};export{m as default};
